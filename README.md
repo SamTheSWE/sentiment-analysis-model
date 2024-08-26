@@ -13,7 +13,7 @@ This project is a simple sentiment analysis tool that classifies movie reviews a
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-model.git
+    git clone https://github.com/SamTheSwe/sentiment-analysis-model.git
     cd sentiment-analysis-model
     ```
 
